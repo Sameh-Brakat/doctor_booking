@@ -32,7 +32,7 @@ class _LoginScreenState extends State<LoginScreen> {
               crossAxisAlignment: .start,
               children: [
                 Padding(
-                  padding: .symmetric(horizontal: 8),
+                  padding: .symmetric(horizontal: 8.w),
                   child: Column(
                     crossAxisAlignment: .start,
                     children: [
